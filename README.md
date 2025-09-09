@@ -48,6 +48,6 @@ Built with a **Raspberry Pi Pico** and PiicoDev-compatible sensors, this system 
 
 ---
 
-## 📚 Credits
+## Credits
 This project was built using [PiicoDev modules](https://core-electronics.com.au/piicodev) developed by **Core Electronics**.  
 Schematics and code examples are open source and provided under their respective licenses.  
