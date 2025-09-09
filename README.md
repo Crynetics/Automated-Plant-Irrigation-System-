@@ -14,7 +14,7 @@ Built with a **Raspberry Pi Pico** and PiicoDev-compatible sensors, this system 
 ---
 
 **Pico Setup**
-- ![Pico setup](photos/pico_setup.jpg)  
+![Pico setup](photos/pico_setup.jpg)  
 
 ---
 
